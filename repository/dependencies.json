@@ -31,6 +31,20 @@
 			]
 		},
 		{
+			"name": "SublimeDeclarativeSettings",
+			"load_order": "50",
+			"description": "Mixin enabling declarative setting loading",
+			"author": "Varriount",
+			"issues": "https://github.com/Varriount/SublimeDeclarativeSettings/issues",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"base": "https://github.com/Varriount/SublimeDeclarativeSettings",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "oauthlib",
 			"load_order": "50",
 			"description": "Python oauthlib module",
